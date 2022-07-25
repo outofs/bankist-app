@@ -10,6 +10,13 @@
   box-sizing: inherit;
 }
 
+.users_pin {
+  text-align: center;
+  color: red;
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+
 html {
   font-size: 62.5%;
   box-sizing: border-box;
