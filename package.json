@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "parcel": "^2.6.2"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "default": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Olexandr Hirych",
+  "license": "ISC",
+  "description": ""
+}
